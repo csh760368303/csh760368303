@@ -12,12 +12,13 @@
 学习 学习 还TM的是学习。 
 少しだけ　日本語読める　これから　日本語の勉強　続きます.
 
-## 最近读书列表
+## Reading List 最近读书列表
 - Unity3D脚本编程
 - UnityShader入门精要
 - Level UP! The Guide To Great Video Game Design(通关！游戏设计之道)
 
-
+## My reading note
+https://www.notion.so/9fd9e9ef747c4211b947f2d297b1d608
 
 <!--
 **csh760368303/csh760368303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
