@@ -8,16 +8,16 @@
 -    📫 How to reach me: wechat account:Csh760368303
 -    📅 thing plan todo :keep learning and read a lot of book , then develop my game.  
 
-### 我为自己是 中国人骄傲。 
+### This is Mr虾米君（花花）。 
 学习 学习 还TM的是学习。 
 少しだけ　日本語読める　これから　日本語の勉強　続きます.
 
-## Reading List 最近读书列表
+## 📕Reading List 最近读书列表
 - Unity3D脚本编程
 - UnityShader入门精要
 - Level UP! The Guide To Great Video Game Design(通关！游戏设计之道)
 
-## My reading note
+## 📄My reading note
 https://www.notion.so/9fd9e9ef747c4211b947f2d297b1d608
 
 <!--
