@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on switch Unity games into ByteDacne's Tiktok App.
+-  🌱 I’m currently learning Unity Shader Lab
+-   🎮 I’m looking to get some friend who can play video game together
+-    🏘  I’m residing in shanghai china
+-    🏐  is my life 
+-    📫 How to reach me: wechat account:Csh760368303
+-    📅 thing plan todo :keep learning and read a lot of book , then develop my game.  
+
+
+
 <!--
 **csh760368303/csh760368303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
