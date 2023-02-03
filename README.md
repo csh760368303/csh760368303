@@ -32,9 +32,8 @@ https://www.notion.so/9fd9e9ef747c4211b947f2d297b1d608
 reading list
 
 中文：
-仿宋代水墨山水画风格3D渲染： https://zhuanlan.zhihu.com/p/602960198
-
-泰坦陨落角色控制器：https://space.bilibili.com/390481111/channel/collectiondetail?sid=1025681
+-仿宋代水墨山水画风格3D渲染： https://zhuanlan.zhihu.com/p/602960198
+-泰坦陨落角色控制器：https://space.bilibili.com/390481111/channel/collectiondetail?sid=1025681
 
 
 
