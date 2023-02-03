@@ -33,6 +33,7 @@ reading list
 
 中文：
 仿宋代水墨山水画风格3D渲染： https://zhuanlan.zhihu.com/p/602960198
+泰坦陨落角色控制器：https://space.bilibili.com/390481111/channel/collectiondetail?sid=1025681
 
 
 
